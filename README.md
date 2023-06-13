@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou a Larissa, sou uma programadora Front-End. Atualmente estou aprendendo e criando projetos com:
+Eu sou a Larissa, sou uma programadora Front-End. Atualmente estou aprendendo e criando projetos com o apoio da formação <a href="https://rodolfomori.com.br/devclub/">Dev Club</a>, ministrada pelo Desenvolvedor FullStack Rodolfo Mori. Desenvolvi aplicações com as seguintes tecnologias:
  <br>
  <br>
  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
